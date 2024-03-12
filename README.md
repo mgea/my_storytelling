@@ -11,7 +11,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: Antonio Fajardo
 - :woman: Luz María Guerra
-- :woman: minombre 
+- :woman: Paula Escalona Doña 
 
 
 Proyecto (código): 
